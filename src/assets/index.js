@@ -25,7 +25,7 @@ import meta from "./company/meta.png";
 import shopify from "./company/shopify.png";
 import starbucks from "./company/starbucks.png";
 import tesla from "./company/tesla.png";
-
+import rheo from './company/rheo.webp'
 import gym from "./gym.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
@@ -45,6 +45,7 @@ export {
   figma,
   git,
   html,
+  rheo,
   crio,
   javascript,
   mongodb,

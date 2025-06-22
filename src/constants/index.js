@@ -119,7 +119,7 @@ const experiences = [
     company_name: "Crio.do",
     icon: crio,
     iconBg: "#383E56",
-    date: "Dec 2022 - April 2024",
+    date: "May 2023 - April 2024",
     points: [
       "Developing and maintaining web applications using React.js and other related technologies.",
       "Collaborating with cross-functional teams including designers, product managers, and other developers to create high-quality products.",
