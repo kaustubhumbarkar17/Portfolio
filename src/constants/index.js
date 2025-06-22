@@ -22,6 +22,7 @@ import {
   gym,
   jobit,
   tripguide,
+  movieflix,
   threejs,
 } from "../assets";
 
@@ -200,6 +201,40 @@ const testimonials = [
 ];
 
 const projects = [
+  {
+  name: "MovieFlix",
+  description:
+    "A movie recommendation system that leverages Mixbread AI to generate embeddings from custom datasets, delivering personalized suggestions. Features a modern UI with React and TypeScript and a Flask-powered backend with MongoDB.",
+  tags: [
+    {
+      name: "react",
+      color: "blue-text-gradient",
+    },
+    {
+      name: "typescript",
+      color: "cyan-text-gradient",
+    },
+    {
+      name: "flask",
+      color: "orange-text-gradient",
+    },
+    {
+      name: "mongodb",
+      color: "green-text-gradient",
+    },
+    {
+      name: "shadcn/ui",
+      color: "purple-text-gradient",
+    },
+    {
+      name: "tailwindcss",
+      color: "pink-text-gradient",
+    },
+  ],
+  image: movieflix,
+  source_code_link: "https://github.com/vinith-rheo/infinity-hack",
+}
+,
   {
     name: "Lyrikal",
     description:
