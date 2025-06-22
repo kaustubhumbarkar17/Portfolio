@@ -12,6 +12,7 @@ import {
   tailwind,
   nodejs,
   mongodb,
+  rheo,
   git,
   figma,
   docker,
@@ -114,6 +115,22 @@ const technologies = [
 ];
 
 const experiences = [
+  {
+  title: "Software Engineer",
+  company_name: "Rheo.Ai",
+  icon: rheo, 
+  iconBg: "#1F2937",
+  date: "Apr 2024 – Present",
+  points: [
+    "Optimized large-scale text translation for datasets over 5,000 bytes, boosting processing accuracy and speed by 35%.",
+    "Built a domain verification and whitelisting system with secure CRUD APIs to enhance access control and data integrity.",
+    "Developed a dynamic dashboard inspired by Grafana’s ImageIt for visually mapping infrastructure with interactive pins.",
+    "Integrated feature tours using React Joyride, improving user onboarding and workflow efficiency.",
+    "Implemented interactive data visualizations using React Chart.js, improving data clarity by 40% and engagement by 30%.",
+    "Used OpenCV to extract structured data from images and generate dynamic forms, enabling automated batch uploads.",
+    "Stack: React, TypeScript, Flask, Django, SCSS, Chart.js, react-strap, SOLID principles.",
+  ],
+},
   {
     title: "Research Fellow",
     company_name: "Crio.do",
