@@ -24,6 +24,9 @@ import {
   tripguide,
   movieflix,
   threejs,
+  AWS,
+  ES,
+  Python
 } from "../assets";
 
 export const navLinks = [
@@ -90,16 +93,16 @@ const technologies = [
     icon: tailwind,
   },
   {
-    name: "Node JS",
-    icon: nodejs,
+    name: "Python",
+    icon: Python,
   },
   {
-    name: "MongoDB",
-    icon: mongodb,
+    name: "Elastic Search",
+    icon: ES,
   },
   {
-    name: "Three JS",
-    icon: threejs,
+    name: "AWS",
+    icon: AWS,
   },
   {
     name: "git",
