@@ -30,6 +30,9 @@ import gym from "./gym.png";
 import jobit from "./jobit.png";
 import tripguide from "./tripguide.png";
 import movieflix from './MovieFlix.png'
+import AWS from './tech/AWS.png'
+import Python from './tech/python.jpg'
+import ES from './tecg/Elastic.png'
 
 export {
   logo,
@@ -63,5 +66,8 @@ export {
   gym,
   jobit,
   tripguide,
-  movieflix
+  movieflix,
+  AWS,
+  ES,
+  Python
 };
