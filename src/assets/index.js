@@ -32,7 +32,7 @@ import tripguide from "./tripguide.png";
 import movieflix from './MovieFlix.png'
 import AWS from './tech/AWS.png'
 import Python from './tech/python.jpg'
-import ES from './tecg/Elastic.png'
+import ES from './tech/Elastic.png'
 
 export {
   logo,
